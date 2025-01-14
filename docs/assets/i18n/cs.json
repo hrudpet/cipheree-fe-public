@@ -19,7 +19,8 @@
         "hintsNumber": "Počet nápověd",
         "player": "Hráč",
         "hints": "Nápovědy",
-        "duration": "Čas"       
+        "duration": "Čas",
+        "title": "Šifrovandr"       
     },
     "buttons": {
         "login": "Přihlásit",
@@ -30,6 +31,8 @@
         "check": "Zkontrolovat",
         "showHint": "Nápověda",
         "restart": "Restartovat",
-        "leaderboard": "Žebříček"
+        "leaderboard": "Žebříček",
+        "goHome": "Na rozcestí",
+        "start": "Vyrazit!"
     }
 }
