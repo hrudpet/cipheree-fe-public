@@ -20,7 +20,9 @@
         "player": "Hráč",
         "hints": "Nápovědy",
         "duration": "Čas",
-        "title": "Šifrovandr"       
+        "title": "Šifrovandr",
+        "error": "Chyba",
+        "setNicknameError": "Nepovedlo se nastavit přezdívku. Prosím zkuste jinou."       
     },
     "buttons": {
         "login": "Přihlásit",
