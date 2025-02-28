@@ -1,0 +1,40 @@
+{
+    "labels": {
+        "welcome": "Vzhůru na šifrovandr! Pro přístup k jednotlivým trasám se prosím přihlašte.",
+        "newUser": "Vítej kryptografe! Zvol si prosím přezdívku do hry.",
+        "nickname": "Přezdívka",
+        "loggedWelcome": "Vítej zpět! Tak kam dnes vyrazíš?",
+        "checkpointLocked": "Toto stanoviště je uzamčeno",
+        "password": "Heslo",
+        "correct": "Správně",
+        "correctDetail": "Správně! Můžete pokračovat dále.",
+        "wrong": "Špatně",
+        "wrongDetail": "Bohužel to není správně. Zkuste to znovu.",
+        "checkpoint": "Stanoviště",
+        "solution": "Řešení",
+        "cipher": "Šifra",
+        "gameStarted": "Hra spuštěna",
+        "gameFinished": "Hra dokončena",
+        "gameDuration": "Celkový čas",
+        "hintsNumber": "Počet nápověd",
+        "player": "Hráč",
+        "hints": "Nápovědy",
+        "duration": "Čas",
+        "title": "Šifrovandr",
+        "error": "Chyba",
+        "setNicknameError": "Nepovedlo se nastavit přezdívku. Prosím zkuste jinou."       
+    },
+    "buttons": {
+        "login": "Přihlásit",
+        "logout": "Odhlásit",
+        "save": "Uložit",
+        "unlock": "Odemknout",
+        "continue": "Pokračovat",
+        "check": "Zkontrolovat",
+        "showHint": "Nápověda",
+        "restart": "Restartovat",
+        "leaderboard": "Žebříček",
+        "goHome": "Na rozcestí",
+        "start": "Vyrazit!"
+    }
+}
