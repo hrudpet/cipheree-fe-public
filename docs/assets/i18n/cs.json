@@ -22,7 +22,10 @@
         "duration": "Čas",
         "title": "Šifrovandr",
         "error": "Chyba",
-        "setNicknameError": "Nepovedlo se nastavit přezdívku. Prosím zkuste jinou."       
+        "setNicknameError": "Nepovedlo se nastavit přezdívku. Prosím zkuste jinou.",
+        "team": "Tým",
+        "teamName": "Jméno týmu",
+        "teamPassword": "Heslo"   
     },
     "buttons": {
         "login": "Přihlásit",
@@ -35,6 +38,11 @@
         "restart": "Restartovat",
         "leaderboard": "Žebříček",
         "goHome": "Na rozcestí",
-        "start": "Vyrazit!"
+        "start": "Vyrazit!",
+        "thisWay": "Tímto směrem",
+        "joinTeam": "Týmovat",
+        "leaveTeam": "Rozloučit se s týmem",
+        "joinExistingTeam": "Přidat se k týmu",
+        "createTeam": "Vytvořit tým"
     }
 }
