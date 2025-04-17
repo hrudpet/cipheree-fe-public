@@ -19,6 +19,7 @@
         "hintsNumber": "Počet nápověd",
         "player": "Hráč",
         "hints": "Nápovědy",
+        "solutionsRevealed": "Nerozluštěno",
         "duration": "Čas",
         "title": "Šifrovandr",
         "error": "Chyba",
@@ -44,6 +45,7 @@
         "joinTeam": "Týmovat",
         "leaveTeam": "Rozloučit se s týmem",
         "joinExistingTeam": "Přidat se k týmu",
-        "createTeam": "Vytvořit tým"
+        "createTeam": "Vytvořit tým",
+        "revealSolution": "Vzdát se"
     }
 }
