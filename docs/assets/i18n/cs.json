@@ -46,6 +46,7 @@
         "leaveTeam": "Rozloučit se s týmem",
         "joinExistingTeam": "Přidat se k týmu",
         "createTeam": "Vytvořit tým",
-        "revealSolution": "Vzdát se"
+        "revealSolution": "Vzdát se",
+        "revealCipher": "Odhalit šifru"
     }
 }
